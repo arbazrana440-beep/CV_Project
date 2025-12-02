@@ -1,6 +1,6 @@
 # CV_Project
 🚁🔥 Edge-Enabled Real-Time Fire & Multi-Class Human/Animal Detection From UAV Aerial Imagery
-Real-Time Environmental Monitoring & Rescue Intelligence Using NVIDIA Jetson Nano
+Real_Time Environmental Monitoring & Rescue Intelligence Using NVIDIA Jetson Nano
 
 Authors:
 Nayab Nazar • Bushra Naeem • Ayesha Hussain • Arbaaz Alam
@@ -10,9 +10,9 @@ Department of Electrical Engineering and Computer Science, NUST
 
 Wildfires, remote accidents, and natural disasters pose increasing threats to human life, wildlife, and ecosystems. Rapid detection of fire and trapped beings in inaccessible regions is crucial for effective rescue operations.
 
-This project presents an edge-enabled UAV system capable of real-time detection of fire, humans, and animals using deep learning models optimized for the NVIDIA Jetson Nano.
+This project presents an edge enabled UAV system capable of real-time detection of fire, humans, and animals using deep learning models optimized for the NVIDIA Jetson Nano.
 
-The system performs onboard inference—no internet or cloud required—allowing fast, autonomous situational awareness during emergency missions.
+The system performs onboard inference,no internet or cloud required allowing fast, autonomous situational awareness during emergency missions.
 
 ⭐ Key Features
 
@@ -34,14 +34,14 @@ Operates within 5–10 W power limits on Jetson Nano.
 🎯 Project Objectives
 
 ✔ Develop a unified detection model combining fire, human, and animal recognition
-✔ Deploy on NVIDIA Jetson Nano for real-time inference
+✔ Deploy on NVIDIA Jetson Nano for real time inference
 ✔ Analyze feasible model architectures from 11 verified research studies
 ✔ Perform fire intensity assessment + object localization
-✔ Provide a complete UAV-based real-time rescue framework
+✔ Provide a complete UAV-based real time rescue framework
 
 📚 Literature Review Summary
 
-A total of 11 peer-reviewed research papers were evaluated covering:
+A total of 11 peer reviewed research papers were evaluated covering:
 
 UAV fire detection
 
@@ -51,11 +51,11 @@ Embedded deep learning
 
 Edge computing optimizations
 
-Real-time transformer-CNN hybrids
+Real time transformer CNN hybrids
 
 Key Insights
 
-YOLOv5/YOLOv8 dominate real-time UAV detection tasks
+YOLOv5/YOLOv8 dominate real time UAV detection tasks
 
 Lightweight, attention-enhanced YOLO variants show 30–40% parameter reduction
 
